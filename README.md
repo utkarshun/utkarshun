@@ -1,89 +1,142 @@
-# 👋 Hi, I'm Utkarsh Kher! Welcome to My GitHub Profile 🚀
+👋 Hi, I'm Utkarsh Kher! 🚀
 
-I am an **aspiring Cybersecurity Engineer** with a strong foundation in **ethical hacking**, **network security**, and **full-stack development**. Passionate about building secure systems and innovative solutions, I aim to combine my technical skills with creative thinking to tackle real-world challenges.
+Aspiring Cybersecurity Engineer | Full Stack Developer | DevOps Enthusiast
 
----
+I specialize in cybersecurity, web development, and DevOps, with hands-on experience in ethical hacking, system security, scalable applications, and automation. Passionate about building secure and innovative solutions, I strive to bridge the gap between development and security.
 
-## 💡 **About Me**
-- 🔐 **Cybersecurity Enthusiast**: Skilled in tools like **Kali Linux**, **Nmap**, **Metasploit**, **Nessus**, and **Hydra**.
-- 🌐 **Full Stack Developer**: Experienced in **HTML**, **CSS**, **JavaScript**, **Node.js**, **Express.js**, and **MongoDB**.
-- 🐳 **DevOps Advocate**: Proficient in **Docker** and **Kubernetes** for containerized applications.
-- 🛡️ **OWASP Knowledge**: Focused on developing secure web applications.
-- 🌟 **Lifelong Learner**: Continuously improving my skills in **programming**, **networking**, and **application security**.
 
 ---
 
-## 🎓 **Education**
-- **B.E. in CSE - Cyber Security**  
-  **RNS Institute of Technology, Bengaluru (2022 - 2026)**  
-  CGPA: **8.73 / 10**
-  
-- **12th Grade**  
-  **Pragya Bharti National School, Gaya (2021)**  
-  Percentage: **83 / 100**
+💡 About Me
 
-- **10th Grade**  
-  **Manav Bharti National School, Gaya (2019)**  
-  Percentage: **90 / 100**
+🔐 Cybersecurity Enthusiast: Skilled in Kali Linux, Nmap, Metasploit, Nessus, Aircrack-ng, and Snort.
 
----
+🌐 Full Stack Developer: Proficient in MERN stack and Spring Boot, with projects in secure REST APIs and scalable systems.
 
-## 🔍 **Certifications**
-- **Data Structures and Algorithms with C/C++**
-- **Beginner to Advanced Ethical Hacking**
-- **Docker and Kubernetes: The Practical Guide**
+🐳 DevOps Advocate: Hands-on with Docker, Kubernetes, Selenium, and CI/CD pipelines.
+
+🛡️ Security-Focused Engineer: Knowledgeable in OWASP practices for developing secure applications.
+
+🌟 Lifelong Learner: Certified in Ethical Hacking, Linux Security, Docker & Kubernetes, and active on LeetCode (200+ DSA problems solved).
+
+
 
 ---
 
-## 🚀 **Key Projects**
-### 📌 **Personal Data Leak Checker and Calculator**
-- **Skills**: HTML, CSS, Node.js, React, MongoDB  
-- Developed a tool to identify personal data leaks using Windows passkeys or Aadhaar numbers.
+🎓 Education
 
-### 📌 **Keylogger for Advanced Backdoor**
-- **Skills**: Python  
-- Built a keylogger for Windows backdoor under mentorship from **Joseph Delgadillo**.
+B.E. in Cyber Security (CSE)
+RNS Institute of Technology, Bengaluru (2022 – 2026)
+CGPA: 8.73 / 10
 
-### 📌 **Network Packet Analyzer**
-- **Skills**: Python  
-- Created a Python-based tool for analyzing network packets.
 
-### 📌 **Alarm Clock**
-- **Skills**: HTML, CSS, JavaScript  
-- Built a web-based alarm clock with customizable settings.
 
 ---
 
-## 📚 **Skills**
-### **Programming**
-- **Languages**: C, C++, Python, JavaScript, SQL
-- **Frontend**: HTML, CSS, JavaScript
-- **Backend**: Node.js, Express.js
+🔍 Certifications
 
-### **Cybersecurity Tools**
-- **Operating Systems**: Linux, Kali Linux
-- **Penetration Testing**: Nmap, Metasploit, Nessus, Hydra
-- **Application Security**: OWASP
+Ethical Hacking (Advanced)
 
-### **DevOps**
-- **Tools**: Docker, Kubernetes
+Linux Security (EC-Council)
 
----
+Docker & Kubernetes (Udemy)
 
-## 📫 **Let’s Connect!**
-- 📧 **Email**: [1rn22cy044.utkarshkher@rnsit.ac.in](mailto:1rn22cy044.utkarshkher@rnsit.ac.in)
-- 🔗 **LinkedIn**: [linkedin.com/in/utkarsh-kher-654a1a282](https://www.linkedin.com/in/utkarsh-kher-654a1a282)
-- 🌐 **GitHub**: [github.com/utkarshun](https://github.com/utkarshun)
+Spring Boot
+
+Python (5-Star, HackerRank)
+
+
 
 ---
 
-## 🏆 **GitHub Stats**
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=utkarshun&show_icons=true&theme=radical)  
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=utkarshun&layout=compact&theme=radical)
+🚀 Key Projects
+
+📌 GPS Spoofing Attack on Ambulance Navigation (Dec 2024)
+
+Skills: Python, Kali Linux, NMEA
+
+Simulated a GPS spoofing attack to analyze risks in navigation systems and proposed anomaly detection techniques.
+
+
+📌 GPT-based Personal Voice Assistant (Nov–Dec 2024)
+
+Skills: React, Node.js, MongoDB, OpenAI
+
+Built a voice assistant integrating GPT and Web Speech API.
+🔗 GitHub Repo
+
+
+📌 Event Ticket Platform with QR Code Verification (Jan–Feb 2025)
+
+Skills: Spring Boot, PostgreSQL
+
+Developed a secure ticketing system with QR code generation and validation.
+🔗 GitHub Repo
+
+
 
 ---
 
-## 🤝 **Let’s Collaborate**
-Feel free to explore my repositories and contribute. Together, we can create innovative solutions for the future!
+📚 Skills
 
-![Footer Image](https://via.placeholder.com/1200x200?text=Happy+Coding!)
+Programming: Java, Python, JavaScript, C, C++
+
+Web Development: React, Node.js, Express.js, HTML, CSS, Spring Boot
+
+Databases: MongoDB, PostgreSQL, MySQL, SQLite
+
+Security Tools: Kali Linux, Nmap, Metasploit, Nessus, Aircrack-ng, Snort
+
+DevOps: Docker, Kubernetes, Selenium
+
+ML Tools: Pandas, NumPy, Scikit-learn, Matplotlib
+
+Version Control: Git, GitHub
+
+
+
+---
+
+💼 Experience
+
+🏢 Red Hat Intern (Dec 2024 – Jan 2025)
+
+Worked with RHEL, Ansible, OpenShift on system administration and containerization.
+
+Automated system monitoring via shell scripts and optimized deployment pipelines.
+
+
+🎓 Placement Volunteer – RNSIT (2024 – Present)
+
+Assisted in organizing placement drives and mentoring peers in interview preparation.
+
+
+
+---
+
+📫 Let’s Connect!
+
+📧 Email: 1rn22cy044.utkarshkher@rnsit.ac.in
+
+🔗 LinkedIn: linkedin.com/in/utkarsh-kher-654a1a282
+
+🌐 GitHub: github.com/utkarshun
+
+🧩 LeetCode: leetcode.com/u/utkarshkher
+
+
+
+---
+
+🏆 GitHub Stats
+
+
+
+
+
+---
+
+🤝 Let’s Collaborate
+
+Feel free to explore my repositories, raise issues, or contribute. Let’s build secure and scalable solutions together!
+
