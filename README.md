@@ -1,129 +1,94 @@
 <!-- Ultra Modern 3D GitHub Profile README — Utkarsh Kher -->
 
-<div align="center">
+<div align="left">
 
-  <!-- Floating 3D Dev -->
-  <img src="https://raw.githubusercontent.com/itscassy/readme-assets/main/3d/dev-floating.gif" width="210"/>
+  <!-- 3D Developer Model -->
+  <img src="https://raw.githubusercontent.com/itscassy/readme-assets/main/3d/dev-working.gif" width="190" align="right" />
 
   <h1>Hi, I'm <strong>Utkarsh Kher</strong> 👋</h1>
-  
-  <!-- Neon Cyber Typing Effect -->
-  <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=23&duration=3000&color=09F7FF&center=true&vCenter=true&width=700&lines=Full+Stack+Developer+%E2%9A%A1;Cybersecurity+Practitioner+%F0%9F%94%92;DevSecOps+Mindset+%F0%9F%A7%A0;Building+Secure+and+Scalable+Systems+%F0%9F%9A%80;Innovation+Through+Tech+%F0%9F%94%A5" />
+
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1200&width=500&color=1AF3F7&vCenter=true&lines=Aspiring+SDE+%7C+Full+Stack+Developer;Cybersecurity+Practitioner;Crafting+Secure+and+Scalable+Software;Always+Learning+and+Building+🚀" />
 
 </div>
 
 ---
 
-### 🧠 About Me
+### 💡 About Me
 
-> A Developer who hacks security into every line of code 🚀
-
-- 🧑‍💻 Full Stack Developer → React | Node.js | Spring Boot  
-- 🔐 Offensive Security + Network Defense  
-- 🚀 Red Hat Intern → DevOps & Automation  
-- 🧠 250+ DSA Problems Solved  
-- ❤️ AI + Cloud + Secure Engineering  
+🔹 Full Stack Developer — React | Node.js | Spring Boot  
+🔹 Security-driven mindset — Network Security | DevSecOps | MITM  
+🔹 Red Hat Intern — CI/CD | Containers | Automation  
+🔹 Solved **250+ LeetCode** DSA Problems  
+🔹 Passionate about secure systems & product engineering 🚀  
 
 ---
 
-### ⚙️ Tech Stack — 3D Icons Edition
+### 🛠 Tech Stack
 
 #### 👨‍💻 Development
 <div>
-  <img src="https://skillicons.dev/icons?i=java,python,js,react,nodejs,express,flask,spring,mongodb,postgresql,mysql,sqlite&theme=light"/>
+  <img src="https://skillicons.dev/icons?i=java,python,js,nodejs,express,react,flask,spring,mongodb,postgresql,mysql,sqlite&theme=dark"/>
 </div>
 
 #### 🚀 DevOps Toolkit
 <div>
-  <img src="https://skillicons.dev/icons?i=docker,kubernetes,githubactions,linux,bash,git&theme=light"/>
+  <img src="https://skillicons.dev/icons?i=docker,kubernetes,githubactions,git,linux&theme=dark"/>
 </div>
 
-#### 🔐 Cyber Arsenal
-<div align="center">
-  <img src="https://raw.githubusercontent.com/itscassy/readme-assets/main/badges/cybersecurity.png" width="500"/>
-</div>
+#### 🔐 Cybersecurity Tools
+> Kali Linux • Burp Suite • Wireshark • Nmap • Snort • Nessus • Metasploit • OSINT
 
 ---
 
-### 🌟 Featured Projects — 3D Preview Showcase
+### 🌟 Featured Projects
 
-<table>
-<tr>
-<td>
-<h3>🚑 GPS MITM — Smart Ambulance Hack</h3>
-<i>Python + RF + Security Research</i><br/>
-<a href="https://github.com/utkarshun/1RN22CY044"><b>🔗 View Project</b></a><br/><br/>
-<img src="https://raw.githubusercontent.com/itscassy/readme-assets/main/3d/gps-hack.gif" width="220"/>
-</td>
+| 🚀 Project | 💡 Focus | 🔗 Repository |
+|-----------|---------|--------------|
+| 🎫 Event Ticket Platform | Spring Boot + JWT + QR + Security | https://github.com/utkarshun/Event-Ticket-Platform |
+| 🗣 GPT Voice Assistant | Node.js + GPT + Speech Automations | https://github.com/utkarshun/ai-assistant |
+| 🚑 GPS Spoofing MITM Attack | Python + Wireless Security | https://github.com/utkarshun/1RN22CY044 |
+| 🔎 Network Packet Analyzer | Python + Scapy + Threat Alerts | Private Documentation |
 
-<td>
-<h3>🎫 Secure Ticketing System</h3>
-<i>Spring Boot + JWT + QR Tech</i><br/>
-<a href="https://github.com/utkarshun/Event-Ticket-Platform"><b>🔗 Explore Repo</b></a><br/><br/>
-<img src="https://raw.githubusercontent.com/itscassy/readme-assets/main/3d/secure-ticket.gif" width="210"/>
-</td>
-</tr>
-
-<tr>
-<td>
-<h3>🗣 GPT Voice Assistant</h3>
-<i>Node.js + GPT Automations</i><br/>
-<a href="https://github.com/utkarshun/ai-assistant"><b>🔗 AI Assistant Repo</b></a><br/><br/>
-<img src="https://raw.githubusercontent.com/itscassy/readme-assets/main/3d/voice-bot.gif" width="210"/>
-</td>
-
-<td>
-<h3>🔎 Network Packet Analyzer</h3>
-<i>Python + Scapy</i><br/>
-<b>🔐 Internal Security Tool</b><br/><br/>
-<img src="https://raw.githubusercontent.com/itscassy/readme-assets/main/3d/network.gif" width="210"/>
-</td>
-</tr>
-</table>
+> More in pinned repositories ↓
 
 ---
 
-### 🏆 Experience & Achievements — Cyber Trophy Wall
+### 🏆 Experience & Achievements
 
-| 🥇 Award | 📝 Details |
-|--------|-------------|
-| 🏆 **1st Prize — PROP 25** | GPS Spoofing MITM Ambulance Security Project |
-| 🚀 **Red Hat DevSecOps Intern** | CI/CD + OpenShift + Performance Boost |
-| 🎓 Cyber Security — RNSIT | CGPA: **8.73/10** |
-| 🧠 DSA Problem Solving | **250+ LeetCode** |
-| 🛡 Certifications | Ethical Hacking • Docker/K8s • Linux Security |
+| 🥇 Achievement | 📝 Details |
+|----------------|----------|
+| 🏆 **First Prize — Project Open House Panorama 25 (PROP 25)** | Awarded for: *“Simulation of GPS Spoofing-Based MITM Attack on a Remote-Controlled Ambulance Car”* |
+| ⭐ **Red Hat DevSecOps Internship** | Automated deployments & monitoring → **25–40%** efficiency boost |
+| 🎓 Cyber Security Student — RNSIT | CGPA: **8.73 / 10** |
+| 🧠 LeetCode DSA | Solved **250+ problems** |
+| 📜 Certifications | Ethical Hacking • Linux Security • Docker/Kubernetes • Python (5⭐ HackerRank) |
+
+---
+
+### 📊 GitHub Analytics
 
 <div align="center">
-<img src="https://raw.githubusercontent.com/itscassy/readme-assets/main/3d/trophy.gif" width="180"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=utkarshun&show_icons=true&theme=react" height="150" />
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=utkarshun&theme=react" height="150" />
+  <br/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=utkarshun&theme=react-dark" width="98%" />
 </div>
 
 ---
 
-### 📊 GitHub Analytics — Cyber HUD  
+### 🤝 Let’s Connect!
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=utkarshun&show_icons=true&theme=tokyonight&bg_color=00000000" height="150"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=utkarshun&theme=tokyonight&background=00000000" height="150"/>
-  <br/><br/>
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=utkarshun&theme=react-dark&bg_color=00000000" width="98%"/>
-</div>
-
----
-
-### 🌐 Connect with Me
-
-📧 Email → **1rn22cy044.utkarshkher@rnsit.ac.in**  
-🔗 LinkedIn → linkedin.com/in/utkarsh-kher-654a1a282  
-🐙 GitHub → github.com/utkarshun  
-🏹 LeetCode → leetcode.com/u/utkarshkher/  
+📧 Email — **1rn22cy044.utkarshkher@rnsit.ac.in**  
+🔗 LinkedIn — https://linkedin.com/in/utkarsh-kher-654a1a282  
+🐱 GitHub — https://github.com/utkarshun  
+🏹 LeetCode — https://leetcode.com/u/utkarshkher/  
 
 ---
 
 <div align="center">
 <br>
-<img src="https://raw.githubusercontent.com/itscassy/readme-assets/main/3d/hack-scan.gif" width="240" />
+<img src="https://raw.githubusercontent.com/itscassy/readme-assets/main/3d/hacker-laptop.gif" width="240" />
 <br><br>
-<h2>⚡ “Engineering Secure Innovations — One Commit at a Time.” ⚡</h2>
-<br>
-<img src="https://raw.githubusercontent.com/itscassy/readme-assets/main/3d/matrix-rain.gif" width="100%"/>
+<h3>🚀 “Engineering Secure Innovations — One Commit at a Time.”</h3>
 </div>
+
