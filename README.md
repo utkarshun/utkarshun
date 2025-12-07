@@ -1,107 +1,117 @@
-<!-- Attractive GitHub Profile README for Utkarsh Kher -->
+<!-- Modern & Attractive GitHub Profile README for Utkarsh Kher -->
 
 <div align="center">
-  <img src="https://avatars.githubusercontent.com/utkarshun" width="120" style="border-radius:50%" alt="Utkarsh Kher Avatar"/>
-  <h1>Hi, I'm Utkarsh Kher 👋</h1>
-  <div>
-    <img src="https://img.shields.io/badge/Role-SDE%20%7C%20Cybersecurity-blue?style=for-the-badge" />
-    <img src="https://komarev.com/ghpvc/?username=utkarshun&style=for-the-badge" />
-    <img src="https://img.shields.io/github/followers/utkarshun?style=for-the-badge" />
-  </div>
+  
+  <!-- 3D Profile Image -->
+  <img src="https://raw.githubusercontent.com/utkarshun/utkarshun/main/assets/3d-developer.gif" width="250px" alt="3D Developer" />
+
+  <h1>Hi, I'm <strong>Utkarsh Kher</strong> 👋</h1>
+
+  <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=22&pause=1000&color=36BCF7&center=true&vCenter=true&width=600&lines=Aspiring+Software+Development+Engineer+(SDE);Cybersecurity+Practitioner;Full+Stack+Developer;Open+Source+Enthusiast;Tech+Explorer+%F0%9F%9A%80" />
+
+  <br/>
+
+  <!-- Badges -->
   <p>
-    <a href="mailto:1rn22cy044.utkarshkher@rnsit.ac.in"><img src="https://img.shields.io/badge/email-1rn22cy044.utkarshkher@rnsit.ac.in-blue?style=flat-square&logo=gmail"></a>
-    <a href="https://linkedin.com/in/utkarsh-kher-654a1a282"><img src="https://img.shields.io/badge/linkedin-Utkarsh%20Kher-blue?style=flat-square&logo=linkedin"></a>
-    <a href="https://github.com/utkarshun"><img src="https://img.shields.io/badge/github-utkarshun-black?style=flat-square&logo=github"></a>
-    <a href="https://leetcode.com/u/utkarshkher/"><img src="https://img.shields.io/badge/leetcode-utkarshkher-orange?style=flat-square&logo=leetcode"></a>
+    <img src="https://img.shields.io/badge/Role-SDE%20%2B%20Cybersecurity-blue?style=for-the-badge"/>
+    <img src="https://komarev.com/ghpvc/?username=utkarshun&style=for-the-badge&color=blue"/>
+    <img src="https://img.shields.io/github/followers/utkarshun?style=for-the-badge&color=blue"/>
   </p>
+
+  <!-- Socials -->
+  <p>
+    <a href="mailto:1rn22cy044.utkarshkher@rnsit.ac.in">
+      <img src="https://img.shields.io/badge/Email-Contact-red?style=for-the-badge&logo=gmail"/>
+    </a>
+    <a href="https://linkedin.com/in/utkarsh-kher-654a1a282">
+      <img src="https://img.shields.io/badge/LinkedIn-Utkarsh%20Kher-blue?style=for-the-badge&logo=linkedin"/>
+    </a>
+    <a href="https://leetcode.com/u/utkarshkher/">
+      <img src="https://img.shields.io/badge/LeetCode-250%2B%20Solved-orange?style=for-the-badge&logo=leetcode"/>
+    </a>
+  </p>
+
 </div>
 
 ---
 
-## 🚀 About Me
+### 🚀 About Me
 
-- 🛡️ **Cybersecurity Engineer & SDE** passionate about building secure, scalable apps and automating solutions.
-- 🎓 Pursuing B.E. in Cyber Security @ RNSIT, Bengaluru (CGPA: 8.73/10).
-- 💡 Lifelong learner: 250+ LeetCode problems, Certified Ethical Hacker, Docker & Kubernetes, and Linux Security.
-- 🏆 Red Hat Intern: RHEL, Ansible, OpenShift, containerization, and DevOps pipelines.
-- 🤝 Placement Volunteer: Helping peers ace interviews and placements.
-- ✨ Always exploring new tech, hacking challenges, and open-source!
+- 👨‍💻 **Full Stack Developer** with a passion for secure and scalable software
+- 🎓 B.E. Cyber Security @ **RNSIT, Bengaluru** | CGPA: **8.73**
+- 🧩 DSA enthusiast → Solved **250+ LeetCode** problems
+- 🧪 Red Hat Intern → **RHEL | Ansible | OpenShift | DevOps Automation**
+- 🔐 Offensive Security Researcher → MITM, Wi-Fi Hacking, Malware Analysis Basics
+- ✨ Believer in **learning-by-building** and open-source collaboration
 
 ---
 
-## 🛠️ Tech Stack & Skills
+### 🛠️ Tech Stack
 
+#### 🚧 Backend & Dev Tools
 <div>
-  <img src="https://img.shields.io/badge/Python-3776AB.svg?logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E.svg?logo=javascript&logoColor=black" />
-  <img src="https://img.shields.io/badge/Java-007396.svg?logo=java&logoColor=white" />
-  <img src="https://img.shields.io/badge/C-00599C.svg?logo=c&logoColor=white" />
-  <img src="https://img.shields.io/badge/C++-00599C.svg?logo=c%2B%2B&logoColor=white" />
-  <img src="https://img.shields.io/badge/React-20232A.svg?logo=react&logoColor=61DAFB" />
-  <img src="https://img.shields.io/badge/Node.js-339933.svg?logo=nodedotjs&logoColor=white" />
-  <img src="https://img.shields.io/badge/Spring_Boot-6DB33F.svg?logo=springboot&logoColor=white" />
-  <img src="https://img.shields.io/badge/MongoDB-47A248.svg?logo=mongodb&logoColor=white" />
-  <img src="https://img.shields.io/badge/PostgreSQL-4169E1.svg?logo=postgresql&logoColor=white" />
-  <img src="https://img.shields.io/badge/HTML5-E34F26.svg?logo=html5&logoColor=white" />
-  <img src="https://img.shields.io/badge/CSS3-1572B6.svg?logo=css3&logoColor=white" />
-  <img src="https://img.shields.io/badge/Kali_Linux-557C94.svg?logo=kalilinux&logoColor=white" />
-  <img src="https://img.shields.io/badge/Docker-2496ED.svg?logo=docker&logoColor=white" />
-  <img src="https://img.shields.io/badge/Kubernetes-326CE5.svg?logo=kubernetes&logoColor=white" />
+  <img src="https://skillicons.dev/icons?i=python,java,nodejs,express,spring,mongodb,postgresql,docker,kubernetes,linux,git,github&theme=dark"/>
 </div>
 
-- **Security Tools:** Kali Linux, Nmap, Metasploit, Nessus, Aircrack-ng, Snort, OWASP
-- **DevOps:** Docker, Kubernetes, Selenium, GitHub Actions
-- **Certifications:** ![Ethical Hacking](https://img.shields.io/badge/Ethical%20Hacking-EC%20Council-green?logo=hackthebox) ![Linux Security](https://img.shields.io/badge/Linux%20Security-blue?logo=linux) ![Docker & Kubernetes](https://img.shields.io/badge/Docker%20%26%20Kubernetes-blue?logo=docker)
+#### 🎨 Frontend
+<div>
+  <img src="https://skillicons.dev/icons?i=html,css,js,react,bootstrap&theme=dark"/>
+</div>
+
+#### 🛡️ Cybersecurity Tools
+> Kali Linux | Metasploit | Wireshark | Nmap | Snort | Aircrack-ng | Nessus | Burp Suite | OWASP ZAP
 
 ---
 
-## 🌟 Top Projects
+### 🌟 Top Projects
 
-- [Event Ticket Platform](https://github.com/utkarshun/Event-Ticket-Platform)  
-  <sup>Secure ticketing system with QR code verification & Spring Boot</sup>
-- [GPS Spoofing Attack on Ambulance Navigation](https://github.com/utkarshun/1RN22CY044)  
-  <sup>Security research: Python, Kali Linux, anomaly detection</sup>
-- [GPT-based Personal Voice Assistant](https://github.com/utkarshun/blogify)  
-  <sup>React + Node.js + GPT + Web Speech API</sup>
-- [Local Weather Peek](https://github.com/utkarshun/local-weather-peek)  
-  <sup>Weather dashboard with API integration</sup>
-- [AI Cyber Assistant](https://github.com/utkarshun/ai-assistant)  
-  <sup>AI for security and automation</sup>
+| Project | Description |
+|--------|-------------|
+| 🚑 **GPS MITM on Smart Ambulance** | Real-world **GPS spoofing** → Python + Kali + Security Research |
+| 🎫 **Event Ticketing Platform** | Secure QR-based system → Spring Boot + Auth |
+| 🗣️ **GPT-Powered Voice Assistant** | AI + Automation → Node.js + Speech APIs |
+| ☁️ **AI-Cyber Assistant** | Security automation using AI models |
+| 🌦️ **Weather Peek** | API-driven live dashboard |
 
----
-
-## 🏆 Achievements
-
-- 🥇 **LeetCode:** 250+ algorithm problems solved ([View Profile](https://leetcode.com/u/utkarshkher/))
-- 🏅 **Red Hat Internship:** Automated deployments & system monitoring
-- 📜 **Certifications:** Ethical Hacking, Linux Security, Docker/Kubernetes, Python (5⭐ HackerRank)
-- 🎓 **Placement Volunteer:** Peer mentoring for interviews
+➡ More in pinned repos!
 
 ---
 
-## 📈 GitHub Stats
+### 🏆 Achievements
+
+- 🥇 **Red Hat Internship** — DevOps automation & secure deployments  
+- 🧠 **Ethical Hacking + Linux Security + Docker/K8s Certifications**  
+- ⭐ **5⭐ Python | HackerRank**  
+- 🚀 Hackathons + Placement Volunteer @ RNSIT
+
+---
+
+### 📈 Stats & Activity
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=utkarshun&show_icons=true&theme=tokyonight" height="150"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=utkarshun&theme=tokyonight" height="150"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=utkarshun&show_icons=true&theme=radical" height="150"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=utkarshun&theme=radical" height="150"/>
+  <br/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=utkarshun&theme=react-dark"/>
 </div>
 
 ---
 
-## 🤝 Let’s Connect!
+### 🤝 Collaboration & Interests
 
-- 📧 **Email:** 1rn22cy044.utkarshkher@rnsit.ac.in
-- 🔗 **LinkedIn:** [utkarsh-kher-654a1a282](https://linkedin.com/in/utkarsh-kher-654a1a282)
-- 🧩 **LeetCode:** [utkarshkher](https://leetcode.com/u/utkarshkher/)
-- 🐙 **GitHub:** [utkarshun](https://github.com/utkarshun)
+✔ Full Stack Development  
+✔ Secure Software Development  
+✔ Research in AI-Security + Cloud + Automation  
 
----
-
-## 💬 Let’s Collaborate
-
-- Explore my repositories, raise issues, or contribute — let’s build secure and scalable solutions together!
-- Open to internships, freelance, and collaborations in SDE & Cybersecurity fields.
+📩 Let’s build something impactful together!
 
 ---
 
-> “Building secure, innovative solutions — one commit at a time.”
+<div align="center">
+  
+🧠 *"Security isn't just a layer — it's a mindset."*  
+🔥 *Building secure innovations — one commit at a time!*  
+
+<br/>
+<img src="https://raw.githubusercontent.com/utkarshun/utkarshun/main/assets/3d-coder-standing.gif" width="200px"/>
+</div>
