@@ -1,117 +1,89 @@
-<!-- Modern & Attractive GitHub Profile README for Utkarsh Kher -->
+<!-- Ultimate Developer + Cyber Security Profile README: UTKARSH KHER -->
 
-<div align="center">
-  
-  <!-- 3D Profile Image -->
-  <img src="https://raw.githubusercontent.com/utkarshun/utkarshun/main/assets/3d-developer.gif" width="250px" alt="3D Developer" />
+<div align="left">
+  <!-- Your Photo -->
+  <img src="https://avatars.githubusercontent.com/utkarshun" width="140" style="border-radius: 50%; margin-right: 20px;" align="left"/>
+
+  <!-- 3D Animated Standing Developer -->
+  <img src="https://raw.githubusercontent.com/Utkarshun/utkarshun/main/assets/3d-standing.gif" width="160" align="right"/>
 
   <h1>Hi, I'm <strong>Utkarsh Kher</strong> 👋</h1>
 
-  <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=22&pause=1000&color=36BCF7&center=true&vCenter=true&width=600&lines=Aspiring+Software+Development+Engineer+(SDE);Cybersecurity+Practitioner;Full+Stack+Developer;Open+Source+Enthusiast;Tech+Explorer+%F0%9F%9A%80" />
-
-  <br/>
-
-  <!-- Badges -->
-  <p>
-    <img src="https://img.shields.io/badge/Role-SDE%20%2B%20Cybersecurity-blue?style=for-the-badge"/>
-    <img src="https://komarev.com/ghpvc/?username=utkarshun&style=for-the-badge&color=blue"/>
-    <img src="https://img.shields.io/github/followers/utkarshun?style=for-the-badge&color=blue"/>
-  </p>
-
-  <!-- Socials -->
-  <p>
-    <a href="mailto:1rn22cy044.utkarshkher@rnsit.ac.in">
-      <img src="https://img.shields.io/badge/Email-Contact-red?style=for-the-badge&logo=gmail"/>
-    </a>
-    <a href="https://linkedin.com/in/utkarsh-kher-654a1a282">
-      <img src="https://img.shields.io/badge/LinkedIn-Utkarsh%20Kher-blue?style=for-the-badge&logo=linkedin"/>
-    </a>
-    <a href="https://leetcode.com/u/utkarshkher/">
-      <img src="https://img.shields.io/badge/LeetCode-250%2B%20Solved-orange?style=for-the-badge&logo=leetcode"/>
-    </a>
-  </p>
-
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=00E7FF&width=500&lines=Aspiring+SDE+%7C+Cybersecurity+Practitioner;Full+Stack+Developer+%7C+AI+%2B+Security;Crafting+Secure+and+Scalable+Software+%F0%9F%94%92;Tech+Explorer+%26+Open+Source+Contributor" />
 </div>
+
+<br/><br/><br/>
 
 ---
 
 ### 🚀 About Me
 
-- 👨‍💻 **Full Stack Developer** with a passion for secure and scalable software
-- 🎓 B.E. Cyber Security @ **RNSIT, Bengaluru** | CGPA: **8.73**
-- 🧩 DSA enthusiast → Solved **250+ LeetCode** problems
-- 🧪 Red Hat Intern → **RHEL | Ansible | OpenShift | DevOps Automation**
-- 🔐 Offensive Security Researcher → MITM, Wi-Fi Hacking, Malware Analysis Basics
-- ✨ Believer in **learning-by-building** and open-source collaboration
+🔹 **Full Stack Developer** (Node.js + Spring Boot + React)  
+🔹 Strong focus on **Secure Software Engineering**  
+🔹 **Cyber Security Student (RNSIT, Bengaluru)** — CGPA: **8.73**  
+🔹 Solved **250+ LeetCode** DSA problems  
+🔹 **Red Hat DevOps Intern** — Containers, GitOps, CI/CD  
+🔹 Offensive Security | MITM | Snort | Network Security  
+🔹 Always learning & building impactful projects 🚀  
 
 ---
 
-### 🛠️ Tech Stack
+### 🛠️ Tech Stack (SDE Focus)
 
-#### 🚧 Backend & Dev Tools
-<div>
-  <img src="https://skillicons.dev/icons?i=python,java,nodejs,express,spring,mongodb,postgresql,docker,kubernetes,linux,git,github&theme=dark"/>
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=java,python,c,cpp,js,react,nodejs,express,spring,mongodb,postgresql,docker,kubernetes,linux,git&theme=dark" />
 </div>
 
-#### 🎨 Frontend
-<div>
-  <img src="https://skillicons.dev/icons?i=html,css,js,react,bootstrap&theme=dark"/>
-</div>
+### 🔐 Cybersecurity Toolkit
 
-#### 🛡️ Cybersecurity Tools
-> Kali Linux | Metasploit | Wireshark | Nmap | Snort | Aircrack-ng | Nessus | Burp Suite | OWASP ZAP
+> Kali Linux • Metasploit • Wireshark • Snort • Aircrack-ng • Burp Suite • Nessus • OSINT
 
 ---
 
-### 🌟 Top Projects
+### 🧩 Featured Projects
 
-| Project | Description |
-|--------|-------------|
-| 🚑 **GPS MITM on Smart Ambulance** | Real-world **GPS spoofing** → Python + Kali + Security Research |
-| 🎫 **Event Ticketing Platform** | Secure QR-based system → Spring Boot + Auth |
-| 🗣️ **GPT-Powered Voice Assistant** | AI + Automation → Node.js + Speech APIs |
-| ☁️ **AI-Cyber Assistant** | Security automation using AI models |
-| 🌦️ **Weather Peek** | API-driven live dashboard |
+| 🏗️ Project | 💡 Tech & Focus | 🔗 Link |
+|-----------|----------------|--------|
+| 🚑 GPS MITM Smart Ambulance | Python + Kali + Security | 🔗 Repo |
+| 🎫 Event Ticketing Platform | Spring Boot + JWT | 🔗 Repo |
+| 🗣 GPT Voice Assistant | Node + Whisper + LLM | 🔗 Repo |
+| AI Cyber Assistant | AI Automation for Threat Ops | 🔗 Repo |
 
-➡ More in pinned repos!
+> *More cool stuff in pinned repositories 👇*
 
 ---
 
 ### 🏆 Achievements
 
-- 🥇 **Red Hat Internship** — DevOps automation & secure deployments  
-- 🧠 **Ethical Hacking + Linux Security + Docker/K8s Certifications**  
-- ⭐ **5⭐ Python | HackerRank**  
-- 🚀 Hackathons + Placement Volunteer @ RNSIT
+⭐ **250+ LeetCode Problems**  
+🥇 **Red Hat Internship** — CI/CD + Containerization  
+📜 Certifications → Ethical Hacking, Docker/K8s, Linux Security  
+🤝 Placement Volunteer — RNSIT  
 
 ---
 
-### 📈 Stats & Activity
+### 📈 GitHub Insights
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=utkarshun&show_icons=true&theme=radical" height="150"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=utkarshun&theme=radical" height="150"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=utkarshun&show_icons=true&theme=tokyonight" height="150"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=utkarshun&theme=tokyonight" height="150"/>
   <br/>
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=utkarshun&theme=react-dark"/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=utkarshun&theme=react-dark" width="98%"/>
 </div>
 
 ---
 
-### 🤝 Collaboration & Interests
+### 📬 Let's Connect!
 
-✔ Full Stack Development  
-✔ Secure Software Development  
-✔ Research in AI-Security + Cloud + Automation  
-
-📩 Let’s build something impactful together!
+📧 **Email:** 1rn22cy044.utkarshkher@rnsit.ac.in  
+🔗 **LinkedIn:** linkedin.com/in/utkarsh-kher-654a1a282  
+🐱 **GitHub:** github.com/utkarshun  
+🧩 **LeetCode:** leetcode.com/u/utkarshkher/
 
 ---
 
 <div align="center">
-  
-🧠 *"Security isn't just a layer — it's a mindset."*  
-🔥 *Building secure innovations — one commit at a time!*  
-
-<br/>
-<img src="https://raw.githubusercontent.com/utkarshun/utkarshun/main/assets/3d-coder-standing.gif" width="200px"/>
+  <img src="https://raw.githubusercontent.com/Utkarshun/utkarshun/main/assets/3d-computer-boy.gif" width="250px"/>
+  <br/>
+  🔥 <b>Building secure, scalable, and smart products — one commit at a time!</b> 🔥
 </div>
