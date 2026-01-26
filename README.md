@@ -27,8 +27,6 @@
 🔹 Passionate about secure systems & product engineering 🚀  
 
 ---
-<!-- ==================== CENTERED ACHIEVEMENTS ==================== -->
-
 <h2 align="center">🏆 Achievements</h2>
 
 <div align="center">
@@ -38,6 +36,7 @@
 </div>
 
 <br>
+
 
 
 
