@@ -32,16 +32,18 @@
 <h2 align="center">🏆 Achievements</h2>
 
 <div align="center">
+  <!-- Galaxy Brain -->
+  <img src="https://github.githubassets.com/images/modules/profile/achievements/galaxy-brain-default.png" width="95" alt="Galaxy Brain"/>
+
   <!-- YOLO -->
-  <img src="https://github.githubassets.com/images/modules/profile/achievements/yolo-default.png" width="95" alt="YOLO Achievement"/>
+  <img src="https://github.githubassets.com/images/modules/profile/achievements/yolo-default.png" width="95" alt="YOLO"/>
 
-  <!-- Second Achievement (example: Pull Shark – change if yours is different) -->
-  <img src="https://github.githubassets.com/images/modules/profile/achievements/pull-shark-default.png" width="95" alt="Achievement"/>
+  <!-- Pair Extraordinaire -->
   <img src="https://github.githubassets.com/images/modules/profile/achievements/pair-extraordinaire-default.png" width="95" alt="Pair Extraordinaire"/>
-
 </div>
 
 <br>
+
 
 <!-- =============================================================== -->
 
