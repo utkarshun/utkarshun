@@ -30,12 +30,11 @@
 <h2 align="center">🏆 Achievements</h2>
 
 <div align="center">
-  <img src="https://github.githubassets.com/images/modules/profile/achievements/pull-shark-default.png" width="95" alt="Pull Shark"/>
-  <img src="https://github.githubassets.com/images/modules/profile/achievements/yolo-default.png" width="95" alt="YOLO"/>
-  <img src="https://github.githubassets.com/images/modules/profile/achievements/pair-extraordinaire-default.png" width="95" alt="Pair Extraordinaire"/>
+  <img src="https://github.githubassets.com/images/modules/profile/achievements/pull-shark-default.png" width="88"/>
+  <img src="https://github.githubassets.com/images/modules/profile/achievements/yolo-default.png" width="88"/>
+  <img src="https://github.githubassets.com/images/modules/profile/achievements/pair-extraordinaire-default.png" width="88"/>
 </div>
 
-<br>
 
 
 
