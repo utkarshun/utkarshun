@@ -69,6 +69,21 @@
 > More in pinned repositories ⬇
 
 ---
+<!-- ==================== CENTERED ACHIEVEMENTS ==================== -->
+
+<h2 align="center">🏆 Achievements</h2>
+
+<div align="center">
+  <!-- YOLO -->
+  <img src="https://github.githubassets.com/images/modules/profile/achievements/yolo-default.png" width="95" alt="YOLO Achievement"/>
+
+  <!-- Second Achievement (example: Pull Shark – change if yours is different) -->
+  <img src="https://github.githubassets.com/images/modules/profile/achievements/pull-shark-default.png" width="95" alt="Achievement"/>
+</div>
+
+<br>
+
+<!-- =============================================================== -->
 
 ### 🏆 Experience & Achievements — Trophy Wall
 
