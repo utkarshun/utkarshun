@@ -47,9 +47,10 @@
 <img src="https://raw.githubusercontent.com/itscassy/readme-assets/main/3d/tools.gif" width="550"/>
 </div>
 
-#### 👨‍💻 Development
+#### 👨💻 Development
 <div>
-  <img src="https://skillicons.dev/icons?i=java,python,js,nodejs,express,react,flask,spring,mongodb,postgresql,mysql,sqlite&theme=dark"/>
+  <!-- Added pytorch as a placeholder for AI/ML or just kept standard dev icons -->
+  <img src="https://skillicons.dev/icons?i=java,python,js,nodejs,express,react,flask,spring,mongodb,postgresql,mysql,sqlite,pytorch&theme=dark"/>
 </div>
 
 #### 🚀 DevOps Toolkit
@@ -74,6 +75,7 @@
 
 | 🚀 Project | 💡 Focus | 🔗 Repository |
 |-----------|---------|--------------|
+| 🛡️ **TalentLens (AI Exam Platform)** | **Generative AI** + Auto-Proctoring + Spring Boot | https://github.com/utkarshun/Talentlens-platform |
 | 🎫 Event Ticket Platform | Spring Boot + JWT + QR + Security | https://github.com/utkarshun/Event-Ticket-Platform |
 | 🗣 GPT Voice Assistant | Node.js + GPT + Speech Automations | https://github.com/utkarshun/ai-assistant |
 | 🚑 GPS Spoofing MITM Attack | Python + Wireless Security | https://github.com/utkarshun/1RN22CY044 |
