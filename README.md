@@ -1,131 +1,104 @@
-<!-- Ultra Modern 3D GitHub Profile README — Utkarsh Kher -->
-
+<!-- HEADER START -->
 <div align="center">
-
-  <!-- 3D Hero Animation -->
-  <img src="https://raw.githubusercontent.com/itscassy/readme-assets/main/3d/dev-floating.gif" width="210"/>
-
-  <h1>Hi, I'm <strong>Utkarsh Kher</strong> 👋</h1>
-
-  <!-- Neon Cyber Typing -->
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1200&width=600&color=09F7FF&vCenter=true&lines=Aspiring+SDE+%7C+Full+Stack+Developer;Cybersecurity+Practitioner;DevSecOps+Mindset;Engineering+Secure+and+Scalable+Solutions+🚀"/>
-
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&height=250&section=header&text=Utkarsh%20Kher&fontSize=80&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Full%20Stack%20Developer%20%7C%20Security%20Researcher%20%7C%20DevSecOps&descAlignY=55&descSize=20&descAlign=50"/>
+  
+  <br>
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&pause=1000&color=20C20E&width=600&lines=System.out.println(%22Building+Secure+Systems...%22);Initializing+Generative+AI+Modules...;Target:+Secure+%26+Scalable+Solutions;Status:+Hiring+Open!+%F0%9F%9A%80" alt="Typing SVG" />
+  </a>
 </div>
 
----
+<!-- DASHBOARD SECTION -->
+<table>
+  <tr>
+    <td valign="top" width="55%">
+      <h3>👨‍💻 Mission Profile</h3>
+      <ul>
+        <li><strong>Role:</strong> Full Stack Security Engineer</li>
+        <li><strong>Specialty:</strong> Fusing <b>AI</b> with <b>Cybersecurity</b></li>
+        <li><strong>Internship:</strong> Red Hat (DevSecOps & Automation)</li>
+        <li><strong>DSA Stats:</strong> Solved <b>250+</b> LeetCode Problems</li>
+        <li><strong>Award:</strong> 🥇 1st Prize @ PROP 25 for GPS Spoofing Research</li>
+      </ul>
+      <br>
+      <!-- SOCIAL BUTTONS -->
+      <a href="https://linkedin.com/in/utkarsh-kher-654a1a282">
+        <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin"/>
+      </a>
+      <a href="mailto:kherutkarsh54@gmail.com">
+        <img src="https://img.shields.io/badge/Email-Contact_Me-EA4335?style=for-the-badge&logo=gmail"/>
+      </a>
+    </td>
+    <td valign="top" width="45%">
+      <h3>📊 Commits & Analytics</h3>
+      <img src="https://github-readme-stats.vercel.app/api?username=utkarshun&show_icons=true&theme=tokyonight&hide_border=true&bg_color=00000000" width="100%"/>
+    </td>
+  </tr>
+</table>
 
-### 🧠 About Me
+<!-- FEATURED PROJECT (TALENTLENS) -->
+<h3>🚀 Featured Release</h3>
+<table>
+  <tr>
+    <td width="65%">
+      <h3>🛡️ TalentLens: AI-Powered Exam Platform</h3>
+      <p>An enterprise-grade assessment system addressing the "Cold Start" problem in EdTech using Generative AI.</p>
+      <br>
+      <p>
+        ✨ <b>GenAI Engine:</b> Generates infinite tech questions via GPT-4.<br>
+        🔐 <b>Auto-Proctor:</b> Detects tab-switching & MITM attacks in real-time.<br>
+        🏗️ <b>Architecture:</b> Microservices-ready Spring Boot backend.
+      </p>
+      <br>
+      <a href="https://github.com/utkarshun/Talentlens-platform">
+        <img src="https://img.shields.io/badge/View_Repository-181717?style=for-the-badge&logo=github&logoColor=white"/>
+      </a>
+    </td>
+    <td width="35%" align="center">
+      <!-- DYNAMIC REPO CARD -->
+      <a href="https://github.com/utkarshun/Talentlens-platform">
+      <img src="https://github-readme-stats.vercel.app/api/pin/?username=utkarshun&repo=Talentlens-platform&theme=tokyonight&hide_border=true&bg_color=0D1117" width="100%"/>
+      </a>
+    </td>
+  </tr>
+</table>
 
-<div align="right">
-<img src="https://raw.githubusercontent.com/itscassy/readme-assets/main/3d/dev-thinking.gif" width="140"/>
-</div>
-
-🔹 Full Stack Developer — React | Node.js | Spring Boot  
-🔹 Security-driven mindset — Network Security | DevSecOps | MITM  
-🔹 Red Hat Intern — CI/CD | Containers | Automation  
-🔹 Solved **250+ LeetCode** DSA Problems  
-🔹 Passionate about secure systems & product engineering 🚀  
-
----
-<h2 align="center">🏆 Achievements</h2>
-
+<!-- TECH STACK -->
+<h3>🛠️ Weapons of Choice (Tech Stack)</h3>
 <div align="center">
-  <img src="https://github.githubassets.com/images/modules/profile/achievements/pull-shark-default.png" width="88"/>
-  <img src="https://github.githubassets.com/images/modules/profile/achievements/yolo-default.png" width="88"/>
-  <img src="https://github.githubassets.com/images/modules/profile/achievements/pair-extraordinaire-default.png" width="88"/>
+  <img src="https://skillicons.dev/icons?i=java,spring,react,ts,nodejs,python,docker,kubernetes,jenkins,linux,kali,aws&theme=dark" />
 </div>
 
+<!-- OTHER PROJECTS TABLE -->
+<h3>📂 More Projects</h3>
+<table>
+  <tr>
+    <th width="30%">Project</th>
+    <th width="50%">Description & Tech</th>
+    <th width="20%">Link</th>
+  </tr>
+  <tr>
+    <td><b>🎫 Event Ticket Platform</b></td>
+    <td>QR-Code based booking system with JWT Auth.<br>Waitlist & Scalable DB design.</td>
+    <td><a href="https://github.com/utkarshun/Event-Ticket-Platform">View Code</a></td>
+  </tr>
+  <tr>
+    <td><b>🗣 GPT Voice Assistant</b></td>
+    <td>Desktop automation via voice commands.<br>Node.js & OpenAI integration.</td>
+    <td><a href="https://github.com/utkarshun/ai-assistant">View Code</a></td>
+  </tr>
+  <tr>
+    <td><b>🚑 GPS Spoofing Attack</b></td>
+    <td>Wireless signal interception on RC Emergency Vehicles.<br><b>Award Winning Research.</b></td>
+    <td><a href="https://github.com/utkarshun/1RN22CY044">View Code</a></td>
+  </tr>
+</table>
 
-
-
-
-<!-- =============================================================== -->
-
-### 🛠 Tech Stack — 3D Skills Wall
-
-<div align="center">
-<img src="https://raw.githubusercontent.com/itscassy/readme-assets/main/3d/tools.gif" width="550"/>
-</div>
-
-#### 👨💻 Development
-<div>
-  <!-- Added pytorch as a placeholder for AI/ML or just kept standard dev icons -->
-  <img src="https://skillicons.dev/icons?i=java,python,js,nodejs,express,react,flask,spring,mongodb,postgresql,mysql,sqlite,pytorch&theme=dark"/>
-</div>
-
-#### 🚀 DevOps Toolkit
-<div>
-  <img src="https://skillicons.dev/icons?i=docker,kubernetes,githubactions,git,linux&theme=dark"/>
-</div>
-
-#### 🔐 Cybersecurity Tools
-<div align="center">
-<img src="https://raw.githubusercontent.com/itscassy/readme-assets/main/3d/hack-protection.gif" width="260"/>
-</div>
-
-> Kali Linux • Burp Suite • Wireshark • Nmap • Snort • Nessus • Metasploit • OSINT
-
----
-
-### 🌟 Featured Projects — 3D Preview Showcase
-
-<div align="center">
-<img src="https://raw.githubusercontent.com/itscassy/readme-assets/main/3d/projects.gif" width="240"/>
-</div>
-
-| 🚀 Project | 💡 Focus | 🔗 Repository |
-|-----------|---------|--------------|
-| 🛡️ **TalentLens (AI Exam Platform)** | **Generative AI** + Auto-Proctoring + Spring Boot | https://github.com/utkarshun/Talentlens-platform |
-| 🎫 Event Ticket Platform | Spring Boot + JWT + QR + Security | https://github.com/utkarshun/Event-Ticket-Platform |
-| 🗣 GPT Voice Assistant | Node.js + GPT + Speech Automations | https://github.com/utkarshun/ai-assistant |
-| 🚑 GPS Spoofing MITM Attack | Python + Wireless Security | https://github.com/utkarshun/1RN22CY044 |
-| 🔎 Network Packet Analyzer | Python + Scapy + Threat Alerts | Private Documentation |
-
-> More in pinned repositories ⬇
-
----
-
-
-### 🏆 Experience & Achievements — Trophy Wall
-
-<div align="center">
-<img src="https://raw.githubusercontent.com/itscassy/readme-assets/main/3d/trophy.gif" width="200"/>
-</div>
-
-| 🥇 Achievement | 📝 Details |
-|----------------|----------|
-| 🏆 **First Prize — Project Open House Panorama 25 (PROP 25)** | “GPS Spoofing-Based MITM Attack on RC Ambulance Car” |
-| ⭐ **Red Hat DevSecOps Internship** | Automated deployments → 25–40% efficiency boost |
-| 🎓 Cyber Security Student — RNSIT | CGPA: **8.73 / 10** |
-| 🧠 LeetCode DSA | Solved **250+ problems** |
-| 📜 Certifications | Ethical Hacking • Linux Security • Docker/K8s • Python (5⭐ HackerRank) |
-
----
-
-### 📊 GitHub Analytics — Cyber HUD
-
-<div align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=utkarshun&show_icons=true&theme=react&bg_color=00000000" height="150" />
-<img src="https://github-readme-streak-stats.herokuapp.com?user=utkarshun&theme=react&background=00000000" height="150" />
-<br/><br/>
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=utkarshun&theme=react-dark&bg_color=00000000" width="98%" />
-</div>
-
----
-
-### 🤝 Let’s Connect!
-
-📧 Email — **kherutkarsh54@gmail.com**  
-🔗 LinkedIn — https://linkedin.com/in/utkarsh-kher-654a1a282  
-🐱 GitHub — https://github.com/utkarshun  
-🏹 LeetCode — https://leetcode.com/u/utkarshkher/  
-
----
-
-<div align="center">
-<img src="https://raw.githubusercontent.com/itscassy/readme-assets/main/3d/matrix-rain.gif" width="100%"/>
-<br><br>
-<h2>⚡ “Engineering Secure Innovations — One Commit at a Time.” ⚡</h2>
+<!-- FOOTER -->
 <br>
-<img src="https://raw.githubusercontent.com/itscassy/readme-assets/main/3d/hacker-laptop.gif" width="220" />
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=utkarshun&theme=react-dark&bg_color=0D1117&hide_border=true&area=true" width="100%"/>
+  <br><br>
+  <img src="https://raw.githubusercontent.com/itscassy/readme-assets/main/3d/matrix-rain.gif" width="100%" height="8"/>
+  <p><i>"Engineering Secure Innovations — One Commit at a Time."</i></p>
 </div>
