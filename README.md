@@ -2,7 +2,7 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=280&section=header&text=Utkarsh%20Kher&fontSize=80&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Security%20Researcher%20•%20DevSecOps%20•%20Full%20Stack%20Engineer&descAlignY=55&descSize=20"/>
   
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=25&pause=1000&color=20C20E&center=true&vCenter=true&width=600&lines=Engineering+Secure+Architectures...;Patching+Vulnerabilities...;Target:+Scalable+%26+Robust+Systems;Solved+250%2B+DSA+Problems...;Open+to+Work:+Cybersecurity+%26+SDE+Roles!+%E2%9C%85" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=25&pause=1000&color=20C20E&center=true&vCenter=true&width=600&lines=Engineering+Secure+Architectures...;Patching+Vulnerabilities...;Soluton:+Scalable+%26+Robust+Systems;Solved+250%2B+LeetCode+Problems...;Open+to+Work:+Cybersecurity+%26+SDE+Roles!+%E2%9C%85" alt="Typing SVG" />
   </a>
 </div>
 
@@ -12,6 +12,7 @@
 <div align="center">
 <table>
   <tr>
+    <!-- LEFT SIDE: INFO -->
     <td valign="top" width="50%">
       <h3>👨‍💻 Operator Profile</h3>
       <ul>
@@ -23,6 +24,7 @@
         <li><strong>Location:</strong> India 🇮🇳</li>
       </ul>
       <br>
+      <h4>📡 Connect Uplink:</h4>
       <div align="left">
         <a href="https://linkedin.com/in/utkarsh-kher-654a1a282">
           <img src="https://img.shields.io/badge/LinkedIn-Connect_Now-0A66C2?style=for-the-badge&logo=linkedin"/>
@@ -32,9 +34,20 @@
         </a>
       </div>
     </td>
-    <td valign="top" width="50%">
-      <h3>📊 Combat Stats</h3>
-      <img src="https://github-readme-stats.vercel.app/api?username=utkarshun&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&count_private=true" width="100%"/>
+    
+    <!-- RIGHT SIDE: ANIMATION + LEETCODE -->
+    <td valign="top" width="50%" align="center">
+      <h3>🔐 Security & Algorithmic Stats</h3>
+      
+      <!-- Cool Hacker GIF to fill space -->
+      <img src="https://raw.githubusercontent.com/itscassy/readme-assets/main/3d/sw-development.gif" width="100%" />
+      
+      <br><br>
+      
+      <!-- LeetCode Stats -->
+      <a href="https://leetcode.com/u/utkarshkher/">
+        <img src="https://leetcode-stats-six.vercel.app/?username=utkarshkher&theme=tokyonight&hide_border=true&no-bg=true&no-header=true" alt="LeetCode Stats" width="90%" />
+      </a>
     </td>
   </tr>
 </table>
@@ -88,7 +101,7 @@
 <br>
 
 <!-- OTHER PROJECTS -->
-<h3>📂 Mission Logs (Projects)</h3>
+<h3>📂 Mission Logs (Research & Dev)</h3>
 <table>
   <tr>
     <th width="40%">Project</th>
@@ -96,7 +109,7 @@
     <th width="20%">Status</th>
   </tr>
   <tr>
-    <td><b>🚑 GPS Spoofing Attack (Research)</b></td>
+    <td><b>🚑 GPS Spoofing Attack</b></td>
     <td><code>Python</code> <code>SDR</code> <code>Signal Interception</code><br><i>Simulating MITM attacks on RC vehicles.</i></td>
     <td>🏆 Awarded</td>
   </tr>
@@ -118,6 +131,7 @@
 <div align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=utkarshun&theme=rogue&hide_border=true&bg_color=0D1117" width="100%"/>
   <br>
+  
   <!-- SNAKE ANIMATION -->
   <img src="https://raw.githubusercontent.com/utkarshun/utkarshun/output/github-contribution-grid-snake.svg" alt="Activity Graph"/>
   
